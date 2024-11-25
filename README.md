@@ -22,7 +22,6 @@
 - Exploring Quantum Computing with IBM Qiskit
 
 🎓 Computer Science & Biosciences @ IIIT-Delhi
-- Bridging the gap between classical and quantum computing
 - Research interests: NLP, Computer Vision, Quantum Algorithms
 
 💡 Always excited about:
